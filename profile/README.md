@@ -14,5 +14,10 @@ Our organization is inspired by the determination and hardworking spirit of dwar
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79093871/215061730-c440420f-3d2e-4205-99c0-8165b3253792.png">
 </p>
-Image will be updated 😏
+Image will be updated to a cool gif in the future 😏
+
+### Collaborators Involved 
+
+[![image](https://user-images.githubusercontent.com/79093871/215065096-1ee87420-90f7-4494-82e0-ea7a07461b9a.png)](https://github.com/af-marquez)
+[Adriana Salvaterra](https://github.com/adrianasalvaterra)
 
