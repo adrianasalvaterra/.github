@@ -19,5 +19,4 @@ Image will be updated to a cool gif in the future 😏
 ### Collaborators Involved 
 
 [![image](https://user-images.githubusercontent.com/79093871/215065096-1ee87420-90f7-4494-82e0-ea7a07461b9a.png)](https://github.com/af-marquez)
-[Adriana Salvaterra](https://github.com/adrianasalvaterra)
-
+[![image](https://user-images.githubusercontent.com/112403097/215259463-68c68d73-0080-4b4b-a517-259a5ee2a81f.png)](https://github.com/adrianasalvaterra)
